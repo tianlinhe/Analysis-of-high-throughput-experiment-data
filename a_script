@@ -1,0 +1,18 @@
+mkdir $1
+cd $1
+mkdir projects #name of projects
+mkdir datasets #directory for storing all datasets
+mkdir general_scripts #directory for storing scripts that are used in many proj$
+mkdir bin #all small scripts that I want to be always in PATH, remember to add $
+cd projects
+mkdir ./scirpts/ ./bash/ ./bash/runall.sh ./bash/filter*sh ./input/ ./output/ .$
+>readme.txt >commands.txt
+cd ..
+cd datasets
+mkdir CASP9 CASP10 CASP11 Human reference genome
+cd ..
+cd general_scripts
+mkdir pdb_scripts templates
+cd ..
+cd bin
+>fastalen.sh >svm_to_tex.sh >text_to_svm.sh
