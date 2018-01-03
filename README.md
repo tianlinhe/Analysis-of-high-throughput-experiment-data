@@ -9,6 +9,7 @@
     2.2 "qvalue_weightedsum.csv"
     2.3 "median.csv"
     2.4 "localization.csv"
+    2.5 "analysis.csv" (by PANTHER) from GO Enrichment analysis
     
  3. python file
     3.1 "f_oneway.py" is the script to calculate distribution, p-value and if the p-value is significant, based on one-way ANOVA. It takes:
@@ -28,7 +29,10 @@
         - input: "localizatoin.csv"
         - output: a figure
         - Volume estimation: intensity sum of (median of "Cytoplasmic" proteins)
-        - Area estimation: intensity sum of (median of "CytoplasmicMembrane" + "Periplasmic" + "OuterMembrane" proteins)
+        - Area estimation: intensity sum of (median of "CytoplasmicMembrane" + "Periplasmic" + "OuterMembrane" proteins
+    3.6 "Vocalno.py" plots the log2(FDR) over fold change of GO analysis results
+        - input: "analysis.csv"
+        - output: a figure
         
  4. Facts
     4.1 Alltogether there are 1394 proteins
