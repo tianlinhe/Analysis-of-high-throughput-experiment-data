@@ -1,0 +1,129 @@
+Analysis Type:,PANTHER Overrepresentation Test (Released 20171205),,,,,,
+Annotation Version and Release Date:,PANTHER version 13.0 Released 2017-11-12,,,,,,
+Analyzed List:,Client Text Box Input (Synechocystis),,,,,,
+Reference List:,Synechocystis (all genes in database),,,,,,
+Test Type:,FISHER,,,,,,
+PANTHER GO-Slim Biological Process,Synechocystis - REFLIST (3507),Client Text Box Input (324),Client Text Box Input (expected),Client Text Box Input (over/under),Client Text Box Input (fold Enrichment),Client Text Box Input (raw P-value),Client Text Box Input (FDR)
+response to toxic substance (GO:0009636),7,2,0.65,+,3.09,1.73E-01,1.42E+00
+protein phosphorylation (GO:0006468),4,1,0.37,+,2.71,3.57E-01,1.57E+00
+gluconeogenesis (GO:0006094),4,1,0.37,+,2.71,3.57E-01,1.52E+00
+carbohydrate transport (GO:0008643),22,5,2.03,+,2.46,7.23E-02,6.84E-01
+protein acetylation (GO:0006473),5,1,0.46,+,2.16,4.12E-01,1.49E+00
+amino acid transport (GO:0006865),25,5,2.31,+,2.16,1.04E-01,9.14E-01
+phosphate ion transport (GO:0006817),26,5,2.4,+,2.08,1.80E-01,1.30E+00
+cholesterol metabolic process (GO:0008203),7,1,0.65,+,1.55,5.07E-01,1.73E+00
+polysaccharide metabolic process (GO:0005976),30,4,2.77,+,1.44,5.27E-01,1.66E+00
+carbohydrate metabolic process (GO:0005975),109,14,10.07,+,1.39,2.46E-01,1.60E+00
+regulation of translation (GO:0006417),8,1,0.74,+,1.35,5.49E-01,1.69E+00
+protein localization (GO:0008104),8,1,0.74,+,1.35,5.49E-01,1.65E+00
+vitamin biosynthetic process (GO:0009110),18,2,1.66,+,1.2,6.84E-01,1.83E+00
+Unclassified (UNCLASSIFIED),2675,273,247.13,+,1.1,9.04E-04,5.56E-02
+vitamin metabolic process (GO:0006766),20,2,1.85,+,1.08,7.09E-01,1.86E+00
+phospholipid metabolic process (GO:0006644),10,1,0.92,+,1.08,1.00E+00,2.24E+00
+homeostatic process (GO:0042592),20,2,1.85,+,1.08,7.09E-01,1.82E+00
+"transcription, DNA-dependent (GO:0006351)",43,4,3.97,+,1.01,1.00E+00,2.28E+00
+cellular protein modification process (GO:0006464),33,3,3.05,-,0.98,1.00E+00,2.12E+00
+protein transport (GO:0015031),11,1,1.02,-,0.98,1.00E+00,1.92E+00
+cell cycle (GO:0007049),11,1,1.02,-,0.98,1.00E+00,1.89E+00
+regulation of biological process (GO:0050789),68,6,6.28,-,0.96,1.00E+00,2.16E+00
+transport (GO:0006810),95,8,8.78,-,0.91,1.00E+00,1.98E+00
+localization (GO:0051179),96,8,8.87,-,0.9,1.00E+00,2.08E+00
+response to stimulus (GO:0050896),78,6,7.21,-,0.83,8.43E-01,1.99E+00
+intracellular signal transduction (GO:0035556),13,1,1.2,-,0.83,1.00E+00,1.32E+00
+cellular component biogenesis (GO:0044085),40,3,3.7,-,0.81,1.00E+00,2.05E+00
+biological regulation (GO:0065007),81,6,7.48,-,0.8,8.44E-01,1.96E+00
+phosphate-containing compound metabolic process (GO:0006796),163,12,15.06,-,0.8,5.77E-01,1.69E+00
+regulation of nucleobase-containing compound metabolic process (GO:0019219),41,3,3.79,-,0.79,1.00E+00,2.20E+00
+monosaccharide metabolic process (GO:0005996),29,2,2.68,-,0.75,1.00E+00,2.02E+00
+response to stress (GO:0006950),46,3,4.25,-,0.71,7.95E-01,1.96E+00
+lipid metabolic process (GO:0006629),46,3,4.25,-,0.71,7.95E-01,1.92E+00
+metabolic process (GO:0008152),703,42,64.95,-,0.65,1.58E-03,4.84E-02
+cellular amino acid metabolic process (GO:0006520),152,9,14.04,-,0.64,2.45E-01,1.67E+00
+rRNA metabolic process (GO:0016072),17,1,1.57,-,0.64,1.00E+00,1.03E+00
+RNA metabolic process (GO:0016070),119,7,10.99,-,0.64,3.26E-01,1.49E+00
+DNA replication (GO:0006260),17,1,1.57,-,0.64,1.00E+00,1.03E+00
+glycogen metabolic process (GO:0005977),17,1,1.57,-,0.64,1.00E+00,1.02E+00
+cellular process (GO:0009987),568,32,52.48,-,0.61,2.31E-03,5.67E-02
+biosynthetic process (GO:0009058),267,15,24.67,-,0.61,5.76E-02,6.45E-01
+steroid metabolic process (GO:0008202),18,1,1.66,-,0.6,1.00E+00,1.24E+00
+signal transduction (GO:0007165),18,1,1.66,-,0.6,1.00E+00,1.23E+00
+cell communication (GO:0007154),18,1,1.66,-,0.6,1.00E+00,1.22E+00
+primary metabolic process (GO:0044238),581,32,53.68,-,0.6,1.14E-03,4.66E-02
+oxidative phosphorylation (GO:0006119),19,1,1.76,-,0.57,1.00E+00,1.28E+00
+cellular component organization or biogenesis (GO:0071840),61,3,5.64,-,0.53,3.66E-01,1.50E+00
+proteolysis (GO:0006508),22,1,2.03,-,0.49,7.16E-01,1.80E+00
+nucleobase-containing compound metabolic process (GO:0006139),286,13,26.42,-,0.49,6.47E-03,1.14E-01
+ion transport (GO:0006811),48,2,4.43,-,0.45,4.37E-01,1.53E+00
+DNA metabolic process (GO:0006259),50,2,4.62,-,0.43,3.17E-01,1.50E+00
+DNA repair (GO:0006281),27,1,2.49,-,0.4,5.09E-01,1.65E+00
+sulfur compound metabolic process (GO:0006790),28,1,2.59,-,0.39,5.09E-01,1.69E+00
+nitrogen compound metabolic process (GO:0006807),356,12,32.89,-,0.36,4.50E-05,5.54E-03
+protein metabolic process (GO:0019538),107,3,9.89,-,0.3,2.30E-02,3.15E-01
+cellular component organization (GO:0016043),39,1,3.6,-,0.28,2.53E-01,1.35E+00
+respiratory electron transport chain (GO:0022904),40,1,3.7,-,0.27,2.54E-01,1.30E+00
+translation (GO:0006412),41,1,3.79,-,0.26,2.57E-01,1.27E+00
+tRNA metabolic process (GO:0006399),43,1,3.97,-,0.25,1.76E-01,1.35E+00
+catabolic process (GO:0009056),99,2,9.15,-,0.22,1.08E-02,1.66E-01
+generation of precursor metabolites and energy (GO:0006091),66,1,6.1,-,0.16,4.19E-02,5.15E-01
+cellular calcium ion homeostasis (GO:0006874),2,0,0.18,-, < 0.01,1.00E+00,1.16E+00
+porphyrin-containing compound metabolic process (GO:0006778),21,0,1.94,-, < 0.01,2.51E-01,1.54E+00
+ferredoxin metabolic process (GO:0006124),3,0,0.28,-, < 0.01,1.00E+00,1.43E+00
+meiosis (GO:0007126),1,0,0.09,-, < 0.01,1.00E+00,1.86E+00
+response to endogenous stimulus (GO:0009719),1,0,0.09,-, < 0.01,1.00E+00,1.84E+00
+tRNA aminoacylation for protein translation (GO:0006418),18,0,1.66,-, < 0.01,3.94E-01,1.47E+00
+protein methylation (GO:0006479),2,0,0.18,-, < 0.01,1.00E+00,1.15E+00
+cellular component morphogenesis (GO:0032989),1,0,0.09,-, < 0.01,1.00E+00,1.81E+00
+cyclic nucleotide metabolic process (GO:0009187),2,0,0.18,-, < 0.01,1.00E+00,1.14E+00
+mRNA polyadenylation (GO:0006378),1,0,0.09,-, < 0.01,1.00E+00,1.78E+00
+lipid transport (GO:0006869),5,0,0.46,-, < 0.01,1.00E+00,1.31E+00
+DNA recombination (GO:0006310),14,0,1.29,-, < 0.01,6.24E-01,1.71E+00
+protein targeting (GO:0006605),3,0,0.28,-, < 0.01,1.00E+00,1.41E+00
+regulation of molecular function (GO:0065009),1,0,0.09,-, < 0.01,1.00E+00,1.76E+00
+reproduction (GO:0000003),1,0,0.09,-, < 0.01,1.00E+00,1.73E+00
+RNA localization (GO:0006403),1,0,0.09,-, < 0.01,1.00E+00,1.71E+00
+DNA catabolic process (GO:0006308),2,0,0.18,-, < 0.01,1.00E+00,1.13E+00
+RNA catabolic process (GO:0006401),8,0,0.74,-, < 0.01,1.00E+00,1.21E+00
+nuclear transport (GO:0051169),1,0,0.09,-, < 0.01,1.00E+00,1.68E+00
+protein complex assembly (GO:0006461),5,0,0.46,-, < 0.01,1.00E+00,1.29E+00
+transcription from RNA polymerase II promoter (GO:0006366),1,0,0.09,-, < 0.01,1.00E+00,1.66E+00
+pyrimidine nucleobase metabolic process (GO:0006206),8,0,0.74,-, < 0.01,1.00E+00,1.19E+00
+regulation of carbohydrate metabolic process (GO:0006109),2,0,0.18,-, < 0.01,1.00E+00,1.12E+00
+locomotion (GO:0040011),1,0,0.09,-, < 0.01,1.00E+00,1.64E+00
+mRNA 3'-end processing (GO:0031124),1,0,0.09,-, < 0.01,1.00E+00,1.62E+00
+secondary metabolic process (GO:0019748),3,0,0.28,-, < 0.01,1.00E+00,1.40E+00
+mitochondrion organization (GO:0007005),8,0,0.74,-, < 0.01,1.00E+00,1.18E+00
+nucleobase-containing compound transport (GO:0015931),1,0,0.09,-, < 0.01,1.00E+00,1.60E+00
+nitrogen utilization (GO:0019740),1,0,0.09,-, < 0.01,1.00E+00,1.58E+00
+protein folding (GO:0006457),10,0,0.92,-, < 0.01,1.00E+00,1.95E+00
+cellular amino acid biosynthetic process (GO:0008652),73,0,6.74,-, < 0.01,2.39E-03,4.91E-02
+regulation of transcription from RNA polymerase II promoter (GO:0006357),3,0,0.28,-, < 0.01,1.00E+00,1.38E+00
+anatomical structure morphogenesis (GO:0009653),1,0,0.09,-, < 0.01,1.00E+00,1.56E+00
+cellular amino acid catabolic process (GO:0009063),17,0,1.57,-, < 0.01,3.91E-01,1.55E+00
+pteridine-containing compound metabolic process (GO:0042558),4,0,0.37,-, < 0.01,1.00E+00,1.07E+00
+developmental process (GO:0032502),1,0,0.09,-, < 0.01,1.00E+00,1.54E+00
+mitochondrial transport (GO:0006839),2,0,0.18,-, < 0.01,1.00E+00,1.11E+00
+organelle organization (GO:0006996),22,0,2.03,-, < 0.01,2.52E-01,1.41E+00
+polyphosphate catabolic process (GO:0006798),3,0,0.28,-, < 0.01,1.00E+00,1.37E+00
+coenzyme metabolic process (GO:0006732),35,0,3.23,-, < 0.01,6.94E-02,7.11E-01
+acyl-CoA metabolic process (GO:0006637),2,0,0.18,-, < 0.01,1.00E+00,1.10E+00
+purine nucleobase metabolic process (GO:0006144),11,0,1.02,-, < 0.01,6.15E-01,1.76E+00
+fatty acid beta-oxidation (GO:0006635),1,0,0.09,-, < 0.01,1.00E+00,1.52E+00
+fatty acid biosynthetic process (GO:0006633),3,0,0.28,-, < 0.01,1.00E+00,1.35E+00
+vesicle-mediated transport (GO:0016192),1,0,0.09,-, < 0.01,1.00E+00,1.50E+00
+fatty acid metabolic process (GO:0006631),8,0,0.74,-, < 0.01,1.00E+00,1.17E+00
+disaccharide metabolic process (GO:0005984),2,0,0.18,-, < 0.01,1.00E+00,1.09E+00
+protein lipidation (GO:0006497),3,0,0.28,-, < 0.01,1.00E+00,1.34E+00
+cytokinesis (GO:0000910),4,0,0.37,-, < 0.01,1.00E+00,1.06E+00
+mRNA processing (GO:0006397),1,0,0.09,-, < 0.01,1.00E+00,1.48E+00
+intracellular protein transport (GO:0006886),6,0,0.55,-, < 0.01,1.00E+00,1.27E+00
+anion transport (GO:0006820),21,0,1.94,-, < 0.01,2.51E-01,1.47E+00
+regulation of sequence-specific DNA binding transcription factor activity (GO:0051090),1,0,0.09,-, < 0.01,1.00E+00,1.46E+00
+tricarboxylic acid cycle (GO:0006099),9,0,0.83,-, < 0.01,1.00E+00,1.01E+00
+pentose-phosphate shunt (GO:0006098),7,0,0.65,-, < 0.01,1.00E+00,1.00E+00
+glycolysis (GO:0006096),6,0,0.55,-, < 0.01,1.00E+00,1.26E+00
+mitochondrial translation (GO:0032543),4,0,0.37,-, < 0.01,1.00E+00,1.05E+00
+response to abiotic stimulus (GO:0009628),11,0,1.02,-, < 0.01,6.15E-01,1.72E+00
+protein glycosylation (GO:0006486),4,0,0.37,-, < 0.01,1.00E+00,1.04E+00
+prosthetic group metabolic process (GO:0051189),2,0,0.18,-, < 0.01,1.00E+00,1.08E+00
+chromatin organization (GO:0006325),1,0,0.09,-, < 0.01,1.00E+00,1.45E+00
+cation transport (GO:0006812),17,0,1.57,-, < 0.01,3.91E-01,1.50E+00
